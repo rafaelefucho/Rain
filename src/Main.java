@@ -8,7 +8,7 @@ import javax.swing.JComponent;
 import javax.swing.JFrame;
 
 public class Main extends JComponent implements Runnable {
-    
+
     ArrayList<Drop> drops = new ArrayList<Drop>();
 
     static int screenWidth =  640;
